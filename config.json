@@ -20,5 +20,52 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "신학관": {
+      "style": "tan",
+      "wall": "#d4b49a",
+      "glass": "#2e3a44",
+      "frame": "#d3d4d2"
+    },
+    "공학관": {
+      "style": "tan",
+      "wall": "#d2a884",
+      "glass": "#2e4a5a",
+      "frame": "#c8ccd0"
+    },
+    "음악관": {
+      "style": "tan",
+      "wall": "#d3b9a3",
+      "glass": "#2a3a48",
+      "frame": "#e8e6e0"
+    },
+    "캠퍼스타운 (Campus Town)": {
+      "style": "tan",
+      "wall": "#c1a078",
+      "glass": "#2e4040",
+      "frame": "#a0977b"
+    },
+    "사범관": {
+      "style": "tan",
+      "wall": "#d6a882",
+      "glass": "#1e3040",
+      "frame": "#c1c4c2",
+      "hip": true,
+      "roof": "#6a3440"
+    },
+    "중앙도서관": {
+      "style": "tan",
+      "wall": "#cdb7a3",
+      "glass": "#2d3d44",
+      "frame": "#e8e7e2"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#d7c7b9",
+      "glass": "#1b2d38",
+      "frame": "#e9e8e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
