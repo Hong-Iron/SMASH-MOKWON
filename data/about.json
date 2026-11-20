@@ -1,0 +1,34 @@
+{
+ "region": "대전 서구 도안동",
+ "nameEn": "Mokwon University",
+ "added": "2026-10-24T16:30",
+ "rank": 80,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KONYANG-DAEJEON",
+   "campus": "건양대학교 대전메디컬캠퍼스",
+   "km": 2.0
+  },
+  {
+   "code": "PCU",
+   "campus": "배재대학교",
+   "km": 2.5
+  },
+  {
+   "code": "DST",
+   "campus": "대전과학기술대학교",
+   "km": 4.2
+  },
+  {
+   "code": "HANBAT",
+   "campus": "국립한밭대학교",
+   "km": 4.3
+  },
+  {
+   "code": "CNU",
+   "campus": "충남대학교 대덕캠퍼스",
+   "km": 5.1
+  }
+ ]
+}
